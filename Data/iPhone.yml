@@ -59,9 +59,5 @@
 - storage: [64, 128, 256]
 - storageprices: []
 
-"iPhone13Mini":
-- name: "iPhone 13 Mini
-- storage: [128, 256, 512]
-- storageprices: []
 
 
