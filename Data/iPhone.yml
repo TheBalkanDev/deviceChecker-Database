@@ -16,7 +16,29 @@
 - storageprices: []
 
 "iPhone13Mini":
-- name: "iPhone 13 Mini
+- name: "iPhone 13 Mini"
+- storage: [128, 256, 512]
+- storageprices: []
+
+# iPhone 12
+
+"iPhone12ProMax":
+- name: "iPhone 12 Pro Max"
+- storage: [128, 256, 512]
+- storageprices: []
+
+"iPhone12Pro":
+- name: "iPhone 12 Pro"
+- storage: [128, 256, 512]
+- storageprices: []
+
+"iPhone12":
+- name: "iPhone 12"
+- storage: [64, 128, 256]
+- storageprices: []
+
+"iPhone12Mini":
+- name: "iPhone 12 Mini"
 - storage: [128, 256, 512]
 - storageprices: []
 
