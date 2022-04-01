@@ -57,7 +57,7 @@
 "iPhone11":
 - name: "iPhone 11"
 - storage: [64, 128, 256]
-- storageprices: []
+- storageprices: [350, 275, 429]
 
 
 
