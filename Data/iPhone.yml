@@ -35,24 +35,24 @@
 "iPhone12":
 - name: "iPhone 12"
 - storage: [64, 128, 256]
-- storageprices: []
+- storageprices: [500]
 
 "iPhone12Mini":
 - name: "iPhone 12 Mini"
-- storage: [128, 256, 512]
-- storageprices: []
+- storage: [64, 128, 256]
+- storageprices: [450]
 
 # iPhone 11
 
 "iPhone11ProMax":
 - name: "iPhone 11 Pro Max"
 - storage: [64, 256, 512]
-- storageprices: []
+- storageprices: [570]
 
 "iPhone11Pro":
 - name: "iPhone 11 Pro"
 - storage: [64, 256, 512]
-- storageprices: []
+- storageprices: [525]
 
 "iPhone11":
 - name: "iPhone 11"
