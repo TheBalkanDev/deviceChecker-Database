@@ -13,7 +13,8 @@ iPhone11:
       
 iPhone11Pro: 
     name: "iPhone 11 Pro"
-   storage 
+    
+   storage:
    - 64 
    - 256 
    - 512
